@@ -1,0 +1,494 @@
+[
+  {
+    "name": "Diabetes6",
+    "medications": [
+      {
+        "name": "asprin",
+        "dose": "2 times",
+        "strength": "500 mg"
+      },
+      {
+        "name": "somethingElse",
+        "dose": "",
+        "strength": "500 mg"
+      }
+    ],
+    "labs": [
+      {
+        "test": "SARS",
+        "report": "Positive"
+      }
+    ]
+  },
+  {
+    "name": "Asthma",
+    "medications": [
+      {
+        "name": "medicine for Asthma",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "somethingElse",
+        "dose": "",
+        "strength": "500 mg"
+      }
+    ],
+    "labs": [
+      {
+        "test": "SARS",
+        "report": "Positive"
+      }
+    ]
+  },
+  {
+    "name": "Mental health",
+    "medications": [
+      {
+        "name": "Love",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "Love",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "Love",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "somethingElse",
+        "dose": "",
+        "strength": "500 mg"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Covid-19",
+        "report": "Negative"
+      },
+      {
+        "test": "Covid-19",
+        "report": "Negative"
+      },
+      {
+        "test": "Covid-19",
+        "report": "Neutral"
+      },
+      {
+        "test": "Covid-19",
+        "report": "Positive"
+      },
+      {
+        "test": "Covid-19",
+        "report": "Neutral"
+      }
+    ]
+  },
+  {
+    "name": "Cough & Cold",
+    "medications": [
+      {
+        "name": "aspirin",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "aspirin",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "somethingElse",
+        "dose": "",
+        "strength": "500 mg"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Covid-19",
+        "report": "Neutral"
+      },
+      {
+        "test": "Covid-19",
+        "report": "Positive"
+      },
+      {
+        "test": "Covid-19",
+        "report": "Negative"
+      }
+    ]
+  },
+  {
+    "name": "Diabetes1",
+    "medications": [
+      {
+        "name": "asprin",
+        "dose": "2 times",
+        "strength": "500 mg"
+      },
+      {
+        "name": "somethingElse",
+        "dose": "",
+        "strength": "500 mg"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Covid-19",
+        "report": "Positive"
+      }
+    ]
+  },
+  {
+    "name": "Diabetes2",
+    "medications": [
+      {
+        "name": "asprin",
+        "dose": "2 times",
+        "strength": "500 mg"
+      },
+      {
+        "name": "somethingElse",
+        "dose": "",
+        "strength": "500 mg"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Covid-19",
+        "report": "Positive"
+      }
+    ]
+  },
+  {
+    "name": "Mental health",
+    "medications": [
+      {
+        "name": "Love",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "Love",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "Love",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "somethingElse",
+        "dose": "",
+        "strength": "500 mg"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Covid-19",
+        "report": "Negative"
+      },
+      {
+        "test": "Covid-19",
+        "report": "Negative"
+      },
+      {
+        "test": "Covid-19",
+        "report": "Neutral"
+      },
+      {
+        "test": "Covid-19",
+        "report": "Positive"
+      },
+      {
+        "test": "Blood Test",
+        "report": "Neutral"
+      }
+    ]
+  },
+  {
+    "name": "some Disease",
+    "medications": [
+      {
+        "name": "aspirin",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "aspirin",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "somethingElse",
+        "dose": "",
+        "strength": "500 mg"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Blood Test",
+        "report": "Neutral"
+      },
+      {
+        "test": "Blood Test",
+        "report": "Positive"
+      },
+      {
+        "test": "Blood Test",
+        "report": "Negative"
+      }
+    ]
+  },
+  {
+    "name": "Diabetes3",
+    "medications": [
+      {
+        "name": "asprin",
+        "dose": "2 times",
+        "strength": "500 mg"
+      },
+      {
+        "name": "somethingElse",
+        "dose": "",
+        "strength": "500 mg"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Blood Test",
+        "report": "Positive"
+      }
+    ]
+  },
+  {
+    "name": "Mental health 3",
+    "medications": [
+      {
+        "name": "Love",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "Love",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "Love",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "somethingElse",
+        "dose": "",
+        "strength": "500 mg"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Blood Test",
+        "report": "Negative"
+      },
+      {
+        "test": "Blood Test",
+        "report": "Negative"
+      },
+      {
+        "test": "Blood Test",
+        "report": "Neutral"
+      },
+      {
+        "test": "Sugar",
+        "report": "Positive"
+      },
+      {
+        "test": "Sugar",
+        "report": "Neutral"
+      }
+    ]
+  },
+  {
+    "name": "Chicken Pox",
+    "medications": [
+      {
+        "name": "aspirin",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "aspirin",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "somethingElse",
+        "dose": "",
+        "strength": "500 mg"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Sugar",
+        "report": "Neutral"
+      },
+      {
+        "test": "Sugar",
+        "report": "Positive"
+      },
+      {
+        "test": "Sugar",
+        "report": "Negative"
+      }
+    ]
+  },
+  {
+    "name": "Diabetes4",
+    "medications": [
+      {
+        "name": "asprin",
+        "dose": "2 times",
+        "strength": "500 mg"
+      },
+      {
+        "name": "somethingElse",
+        "dose": "",
+        "strength": "500 mg"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Diarrohea",
+        "report": "Positive"
+      }
+    ]
+  },
+  {
+    "name": "Mental health",
+    "medications": [
+      {
+        "name": "Love",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "Love",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "Love",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "Depression",
+        "dose": "",
+        "strength": "500 mg"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Diarrohea",
+        "report": "Negative"
+      },
+      {
+        "test": "Diarrohea",
+        "report": "Negative"
+      },
+      {
+        "test": "Diarrohea",
+        "report": "Neutral"
+      },
+      {
+        "test": "Diarrohea",
+        "report": "Positive"
+      },
+      {
+        "test": "Piles",
+        "report": "Neutral"
+      }
+    ]
+  },
+  {
+    "name": "Dengue",
+    "medications": [
+      {
+        "name": "aspirin",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "aspirin",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "somethingElse",
+        "dose": "",
+        "strength": "500 mg"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Piles",
+        "report": "Neutral"
+      },
+      {
+        "test": "Piles",
+        "report": "Positive"
+      },
+      {
+        "test": "Piles",
+        "report": "Negative"
+      }
+    ]
+  },
+  {
+    "name": "Diabetes5",
+    "medications": [
+      {
+        "name": "asprin",
+        "dose": "2 times",
+        "strength": "500 mg"
+      },
+      {
+        "name": "somethingElse",
+        "dose": "",
+        "strength": "500 mg"
+      }
+    ],
+    "labs": [
+      {
+        "test": "SARS",
+        "report": "Positive"
+      }
+    ]
+  },
+  {
+    "name": "Asthma3",
+    "medications": [
+      {
+        "name": "medicine for Asthma",
+        "dose": "",
+        "strength": "500 mg"
+      },
+      {
+        "name": "somethingElse",
+        "dose": "",
+        "strength": "500 mg"
+      }
+    ],
+    "labs": [
+      {
+        "test": "SARS",
+        "report": "Positive"
+      }
+    ]
+  }
+]

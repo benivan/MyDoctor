@@ -9,5 +9,32 @@
         android:id="@+id/loginPage"
         android:name="com.example.mydoctor.LoginPage"
         android:label="fragment_login_page"
-        tools:layout="@layout/fragment_login_page" />
+        tools:layout="@layout/fragment_login_page" >
+        <action
+            android:id="@+id/action_loginPage_to_homePage"
+            app:destination="@id/homePage"
+            app:popUpTo="@id/loginPage"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/homePage"
+        android:name="com.example.mydoctor.HomePage"
+        android:label="fragment_home_page"
+        tools:layout="@layout/fragment_home_page" >
+        <argument
+            android:name="username"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_homePage_to_diseaseDetailsPage"
+            app:destination="@id/diseaseDetailsPage" />
+    </fragment>
+    <fragment
+        android:id="@+id/diseaseDetailsPage"
+        android:name="com.example.mydoctor.DiseaseDetailsPage"
+        android:label="fragment_disease_details_page"
+        tools:layout="@layout/fragment_disease_details_page" >
+        <argument
+            android:name="diseaseId"
+            app:argType="long" />
+    </fragment>
 </navigation>
